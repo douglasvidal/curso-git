@@ -1,3 +1,5 @@
 FRENTE: git checkout -- nome-do-arquivo 
 VERSO: Remove a alteração que foi feita no arquivo(que esteja trackeado) e que ainda não foi adicionada no stage.
 
+FRENTE: git restore nome-do-arquivo
+VERSO: Remove a alteração que foi feita no arquivo(que esteja trackeado) e que ainda não foi adicionada no stage.
