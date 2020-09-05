@@ -3,3 +3,6 @@ VERSO: Remove a alteração que foi feita no arquivo(que esteja trackeado) e que
 
 FRENTE: git restore nome-do-arquivo
 VERSO: Remove a alteração que foi feita no arquivo(que esteja trackeado) e que ainda não foi adicionada no stage.
+
+FRENTE: git restore --staged nome-do-arquivo
+VERSO: Remove o arquivo da stage area
