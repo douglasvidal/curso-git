@@ -6,3 +6,6 @@ VERSO: Remove a alteração que foi feita no arquivo(que esteja trackeado) e que
 
 FRENTE: git restore --staged nome-do-arquivo
 VERSO: Remove o arquivo da stage area
+
+FRENTE: git fetch
+VERSO: Verifica se as alterações realizadas no git local estão atualizadas com o git remoto e informa o usuário.
