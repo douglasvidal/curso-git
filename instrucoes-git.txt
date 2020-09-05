@@ -5,10 +5,13 @@ FRENTE: git restore nome-do-arquivo
 VERSO: Remove a alteração que foi feita no arquivo(que esteja trackeado) e que ainda não foi adicionada no stage.
 
 FRENTE: git restore --staged nome-do-arquivo
-VERSO: Remove o arquivo da stage area
+VERSO: Remove o arquivo da stage area.
 
 FRENTE: git fetch
 VERSO: Verifica se as alterações realizadas no git local estão atualizadas com o git remoto e informa o usuário.
 
 FRENTE: git tag nome-tag
 VERSO: Usado para marcar versões dos projetos ou quando você deseja marca algo para encontrar mais fácilmente.
+
+FRENTE: git push -tags
+VERSO: Comando usado para enviar as tags para o git remote.
