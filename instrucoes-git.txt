@@ -15,3 +15,9 @@ VERSO: Usado para marcar versões dos projetos ou quando você deseja marca algo
 
 FRENTE: git push -tags
 VERSO: Comando usado para enviar as tags para o git remote.
+
+FRENTE: git branch nome-do-branch
+VERSO: Comando usado para criar um novo branch
+
+FRENTE: git branch -D nome-do-branch
+VERSO: Comando que remove um branch local
