@@ -21,3 +21,6 @@ VERSO: Comando usado para criar um novo branch
 
 FRENTE: git branch -D nome-do-branch
 VERSO: Comando que remove um branch local
+
+FRENTE: git remote set-url origin url-desejada
+VERSO: Comando altera a url/ssh cadastrado na variável origem, ex.: git remote set-url origin https://github.com/USERNAME/REPOSITORY.git
